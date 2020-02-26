@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">All Exercises</string>
+    <string name="imgView">Its Display The Menu</string>
+    <string name="txtView">Rate Pool Trader</string>
+    <string name="txtView1">Your feedback matters to us!</string>
+    <string name="txtView2">Title:</string>
+    <string name="etText">e.g. Awesome App</string>
+    <string name="txtView3">Feedback:</string>
+    <string name="etText1">Enter detailed feedback here</string>
+    <string name="btn">Submit</string>
+    <string name="editText1">Name</string>
+    <string name="editText2">College Name</string>
+    <string name="editText3">DOB</string>
+    <string name="rBtn1">Male</string>
+    <string name="rBtn2">Female</string>
+    <string name="txt1">Course:</string>
+    <string name="txt3">Gender:</string>
+    <string name="tBtn1">Sign in</string>
+    <string name="tBtn2">Sign Out</string>
+    <string name="txt2">Page is refreshed.</string>
+    <string name="pick_date">Choose Date</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password(Min Size:8 char)</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="btnText">Create New Contact</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

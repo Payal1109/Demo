@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_IntentPackage.Activity_Intent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar"
+        android:background="@color/colorPrimary"
+        app:title="Activity_Intent">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/auto"
+        android:layout_gravity="center"
+        android:text="AutomaticNewActivity" />
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/email"
+        android:layout_gravity="center"
+        android:text="EmailIntent"/>
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/explicit"
+        android:layout_gravity="center"
+        android:text="ExplicitIntent"/>
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/implicit"
+        android:layout_gravity="center"
+        android:text="ImplicitIntent"/>
+
+
+
+</LinearLayout>
